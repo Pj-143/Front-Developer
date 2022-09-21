@@ -1,2 +1,2 @@
 # Front-Developer
-This is fronend app
+This is frontend app
